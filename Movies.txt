@@ -2,3 +2,5 @@ MOVIES              -           DIRECTOR
 ========================================
 RRR                 -           SS Rajamouli
 Avatar2             -           James Cameron
+Thanioruvan         -           Surender reddy
+Soorarai Potru      -           Sudha
