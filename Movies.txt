@@ -1,2 +1,4 @@
 MOVIES              -           DIRECTOR
 ========================================
+RRR                 -           SS Rajamouli
+Avatar2             -           James Cameron
